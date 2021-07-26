@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MINAZAMAN
+- 👋 Hi, I’m @MINAZAMANI
 - 👀 I’m interested in numerical relativity
 - 🌱 I’m currently learning Einstein Toolkit
 - 💞️ I’m looking to collaborate on relativistic magnetized neutron stars
